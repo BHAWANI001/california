@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.lobe{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    gap:30px;
+}
+.lobe-image{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700px;
+    color: rgb(23, 22, 22);
+    margin-left: 20px;
+}
+.option{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-left: 500px;
+}
+.button{
+    margin-top: 10px;
+    margin-left: 500px;
+    border: rgb(12, 232, 181) solid 1px;
+    background-color: rgb(12, 232, 181);
+    color:rgb(251, 249, 249);
+    height: 30px;
+    width: 110px;
+    font-size: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+.lobe-main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 700px;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 900px;
+}
+.lobe-t{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    gap: 10px;
+}
+.t-lobe{
+    display: flex;
+    color: rgb(5, 237, 191);
+}
+.iframe{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.para{
+    margin-top: 10px;
+    margin-left: 600px;
+    font-size: 30px;
+}
+.train{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-left: 800px;
+    gap: 10px;
+}
+.dow{
+    border: rgb(9, 239, 181) solid 1px;
+    height: 30px;
+    width: 100px;
+    margin-left: 850px;
+    margin-top: 40px;
+    background-color: rgb(24, 222, 156);
+    color: white;
+    padding-left: 30px;
+    font-size: 20px;
+    border-radius: 20px;
+    padding-top: 5px;
+    cursor: pointer;
+
+}
+.hr{
+    margin-top: 100px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    gap:100px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.foo-ter{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.ter{
+    font-size: 30px;
+    gap: 20px;
+}
+.img-l{
+    display: flex;
+    flex-direction: row;
+}
+.icon-logo{
+    height: 40px;
+    width: 40px;
+}
